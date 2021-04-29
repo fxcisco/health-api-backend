@@ -21,12 +21,3 @@ Build project
 Start server
 
     $ npm run start
-
-Start dev server
-
-    $ npm run dev
-
-
-
-    
-
